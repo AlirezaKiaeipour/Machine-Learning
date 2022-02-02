@@ -4,3 +4,4 @@ xgboost
 catboost
 imblearn
 seaborn
+matplotlib
