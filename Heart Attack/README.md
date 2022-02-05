@@ -1,4 +1,4 @@
-# Titanic EDA & Model
+# Heart Attack EDA & Model
 
   - EDA:
     - [x]  Analysis Dataset
