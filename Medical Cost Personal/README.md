@@ -1,5 +1,8 @@
 # Medical Cost Personal EDA & Model
 
+  **Dataset Link:** [Medical Cost Personal](https://www.kaggle.com/mirichoi0218/insurance)
+
+
   - EDA:
     - [x]  Analysis Dataset
     - [x]  Chart to visualize the Medical Cost Dataset
