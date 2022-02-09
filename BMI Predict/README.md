@@ -1,6 +1,6 @@
 # BMI Model
 
-  **Dataset Link:** [Fashion mnist]( https://www.kaggle.com/zalando-research/fashionmnist)
+  **Dataset Link:** [BMI Predict]( https://www.kaggle.com/yasserh/bmidataset)
 
 
   - Model:
