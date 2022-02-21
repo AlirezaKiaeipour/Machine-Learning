@@ -1,5 +1,7 @@
 # Titanic EDA & Model
 
+  **Dataset Link:** [Titanic](https://www.kaggle.com/c/titanic/data?select=train.csv)
+
   - EDA:
     - [x]  Analysis Dataset
     - [x]  Chart to visualize the Titanic Dataset
