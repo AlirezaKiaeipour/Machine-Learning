@@ -1,4 +1,6 @@
 pandas
+numpy
+tensorflow
 sklearn
 xgboost
 catboost
