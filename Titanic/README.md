@@ -24,6 +24,8 @@
     - [x]  GBoostingClassifier
     - [x]  XGBoostClassifier
     - [x]  CatBoostClassifier
+    - [x]  Perceptron
+    - [x]  Multi Layer Perceptron
 
   - Accuracy:
 
@@ -36,4 +38,6 @@
     Gboost | **86.63 %** | **89.81 %** | **85.84 %**  | **87.78 %** |
     XGboost | **86.13 %** | **89.71 %** | **84.95 %**  | **87.27 %** |
     Catboost | **92.07 %** | **93.69 %** | **92.03 %**  | **92.85 %** |
+    Perceptron | **78.21 %** | **84.15 %** | **75.22 %**  | **79.43 %** |
+    MLP | **93.06 %** | **93.06 %** | **93.06 %**  | **93.06 %** |
     
