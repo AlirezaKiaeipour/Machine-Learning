@@ -31,7 +31,7 @@
 
   - Accuracy:
 
-    Algorithm | Accuracy | Precision | Precision | F1-score |
+    Algorithm | Accuracy | Precision | Recall | F1-score |
     ------------- | ------------- | ------------- | ------------- | ------------- |
     KNeighbors | **86.13 %** | **87.61 %** | **87.61 %**  | **87.61 %** | 
     SVM | **82.17 %** | **87.37 %** | **79.64 %**  | **83.33 %** |
