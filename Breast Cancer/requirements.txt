@@ -1,6 +1,0 @@
-pandas
-numpy
-sklearn
-xgboost
-catboost
-seaborn
